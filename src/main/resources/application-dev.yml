@@ -1,0 +1,12 @@
+server:
+  port: 5678
+
+spring:
+  application:
+    name: qyjClient-demo
+  rabbitmq:
+    host: 192.168.1.115
+    port: 5672
+    username: guest
+    password: guest
+
